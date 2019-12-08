@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test", "..\..\test\test.csproj", "{771FD201-C775-4DD7-8289-D9357BC7C509}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestData", "..\..\TestData\TestData.csproj", "{40CAA3ED-CA7B-493E-BF29-36DBBE3BB556}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{EF6EBDC7-9301-40F1-98CB-C140C683639D}"
+	ProjectSection(SolutionItems) = preProject
+		Code01_SelectionSort.java = Code01_SelectionSort.java
+		Code02_BubbleSort.java = Code02_BubbleSort.java
+		Code03_InsertionSort.java = Code03_InsertionSort.java
+		Code04_BSExist.java = Code04_BSExist.java
+		Code05_BSNearLeft.java = Code05_BSNearLeft.java
+		Code06_BSAwesome.java = Code06_BSAwesome.java
+		Code07_EvenTimesOddTimes.java = Code07_EvenTimesOddTimes.java
+		Code08_GetMax.java = Code08_GetMax.java
+		Code09_FindOneLessValueIndex.java = Code09_FindOneLessValueIndex.java
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{41227C42-F7CA-431F-B46D-4C37FDB132E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{771FD201-C775-4DD7-8289-D9357BC7C509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771FD201-C775-4DD7-8289-D9357BC7C509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771FD201-C775-4DD7-8289-D9357BC7C509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771FD201-C775-4DD7-8289-D9357BC7C509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40CAA3ED-CA7B-493E-BF29-36DBBE3BB556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40CAA3ED-CA7B-493E-BF29-36DBBE3BB556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40CAA3ED-CA7B-493E-BF29-36DBBE3BB556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40CAA3ED-CA7B-493E-BF29-36DBBE3BB556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41227C42-F7CA-431F-B46D-4C37FDB132E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41227C42-F7CA-431F-B46D-4C37FDB132E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41227C42-F7CA-431F-B46D-4C37FDB132E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41227C42-F7CA-431F-B46D-4C37FDB132E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2CD6212-F9E6-4D0C-8873-4D1EC553C647}
+	EndGlobalSection
+EndGlobal

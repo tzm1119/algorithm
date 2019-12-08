@@ -1,0 +1,8 @@
+﻿master公式
+
+T(N)=aT(N/b)+O(N^d)
+
+分三种情况
+1.logb(A) < d 则时间复杂度为 O(N^d)
+2.logb(A) > d 则时间复杂度为 O(N*logb(a))
+3.logb(A) = d 则时间复杂度为 O(N^d * log(N))

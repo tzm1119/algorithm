@@ -1,0 +1,8 @@
+E:\Desktop\NetCore\algorithm\TestData\bin\Debug\netstandard2.0\TestData.deps.json
+E:\Desktop\NetCore\algorithm\TestData\bin\Debug\netstandard2.0\TestData.dll
+E:\Desktop\NetCore\algorithm\TestData\bin\Debug\netstandard2.0\TestData.pdb
+E:\Desktop\NetCore\algorithm\TestData\obj\Debug\netstandard2.0\TestData.csprojAssemblyReference.cache
+E:\Desktop\NetCore\algorithm\TestData\obj\Debug\netstandard2.0\TestData.AssemblyInfoInputs.cache
+E:\Desktop\NetCore\algorithm\TestData\obj\Debug\netstandard2.0\TestData.AssemblyInfo.cs
+E:\Desktop\NetCore\algorithm\TestData\obj\Debug\netstandard2.0\TestData.dll
+E:\Desktop\NetCore\algorithm\TestData\obj\Debug\netstandard2.0\TestData.pdb

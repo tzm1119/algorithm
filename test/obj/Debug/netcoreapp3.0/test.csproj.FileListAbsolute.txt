@@ -1,0 +1,14 @@
+E:\Desktop\NetCore\algorithm\test\bin\Debug\netcoreapp3.0\test.exe
+E:\Desktop\NetCore\algorithm\test\bin\Debug\netcoreapp3.0\test.deps.json
+E:\Desktop\NetCore\algorithm\test\bin\Debug\netcoreapp3.0\test.runtimeconfig.json
+E:\Desktop\NetCore\algorithm\test\bin\Debug\netcoreapp3.0\test.runtimeconfig.dev.json
+E:\Desktop\NetCore\algorithm\test\bin\Debug\netcoreapp3.0\test.dll
+E:\Desktop\NetCore\algorithm\test\bin\Debug\netcoreapp3.0\test.pdb
+E:\Desktop\NetCore\algorithm\test\obj\Debug\netcoreapp3.0\test.csprojAssemblyReference.cache
+E:\Desktop\NetCore\algorithm\test\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
+E:\Desktop\NetCore\algorithm\test\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
+E:\Desktop\NetCore\algorithm\test\obj\Debug\netcoreapp3.0\test.dll
+E:\Desktop\NetCore\algorithm\test\obj\Debug\netcoreapp3.0\test.pdb
+E:\Desktop\NetCore\algorithm\test\bin\Debug\netcoreapp3.0\TestData.dll
+E:\Desktop\NetCore\algorithm\test\bin\Debug\netcoreapp3.0\TestData.pdb
+E:\Desktop\NetCore\algorithm\test\obj\Debug\netcoreapp3.0\test.csproj.CopyComplete
